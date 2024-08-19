@@ -39,4 +39,12 @@
         android:text="reset"
         android:textSize="35sp" />
 
+    <Button
+        android:id="@+id/btn_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="화면 이동"
+        android:textSize="35sp" />
+
 </LinearLayout>
